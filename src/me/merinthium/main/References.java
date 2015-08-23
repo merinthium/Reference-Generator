@@ -3,7 +3,8 @@ package me.merinthium.main;
 
 import javax.swing.JOptionPane;
 
-public class References {
+public class References 
+{
 	
 	public static void main (String[] args)
 	{
